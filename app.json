@@ -18,9 +18,6 @@
         "SETTINGS_EXPIRATION_DELAY": "1800000",
         "SETTINGS_QUEUE_ENABLED": "true"
     },
-    "addons": [
-        "mongolab"
-    ],
     "buildpacks": [
         {
             "url": "https://github.com/AdmitHub/meteor-buildpack-horse"
